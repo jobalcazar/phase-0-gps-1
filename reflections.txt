@@ -1,0 +1,14 @@
+What Git concepts were you struggling with prior to the GPS session?
+I was struggling with the merge concepts. But I figured it out.
+
+What concepts were clarified during the GPS?
+The mv, merge, and push functions were clarified functions
+
+What questions did you ask your pair and the guide?
+I asked them some questions about markdown and about how to add comments directly in the shell
+
+What still confuses you about Git?
+Nothing conceptually thus far. I think I just need to make the workflow more reflexive.
+
+How was your first experience of pairing in a GPS?
+it was good! Jose was an excellent partner
