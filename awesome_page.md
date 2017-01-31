@@ -4,4 +4,4 @@
 *Jose   
 *JM
 *Make a list
-![Jose smiles goodly][jose-jm.png]
+![Jose smiles goodly](jose-jm.png)
